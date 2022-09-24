@@ -1,3 +1,3 @@
 def Oppai():
-  Print "Momi momi"
+  print("Momi momi")
   
